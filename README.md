@@ -43,3 +43,10 @@ Deadline : 17/6
 * [ ] Introduction to information theory
   * [ ] Intro. to Source Coding (Huffman Code) (_check algorithms, you have already implemented your compressor_)
   * [ ] Intro. to Channel Coding (Linear Block & Convolution Codes).
+
+
+---
+
+# Sampling
+
+* Natural Sampling is not compatible with a digital system since the amplitude of each sample has infinite number of possible values.
