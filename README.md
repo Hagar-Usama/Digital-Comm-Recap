@@ -17,7 +17,7 @@ Deadline : 17/6
 > #### What cannot be completely attained, should not be completely left
 
 # Contents
-* [x] Sampling
+* [ ] Sampling
 * [ ] Analog Pulse Modulation
   * [ ] PAM, PWM, PPM
   * [ ] PCM, Mary PCM - NUQ -DPCM & DM

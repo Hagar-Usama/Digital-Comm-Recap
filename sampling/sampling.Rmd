@@ -1,18 +1,42 @@
 ---
-title: "Sampling"
+title: "Digital Communications"
 author: "Hagar Usama"
 date: "6/16/2020"
 output: html_document
 ---
 
-
 ## Sampling {.tabset}
 
 ### Intro
 
-<img src=Sampling.jpg>
+<img src=Sampling.jpg width="500">
+
+### Rules
+
+<!-- $$ x_s(t) = x(t) x_\delta(t)= x(t)\sum_{n=-infty}^{infty}\delta(t-nT_s)$$ -->
+
+<!-- <img src="http://latex.codecogs.com/svg.latex?x_s(t) = x(t) x_\delta(t)= x(t)\sum_{n=-infty}^{infty}\delta(t-nT_s)" border="0"/> -->
+
+#### Ideal
+<img src="eqn/ideal.png" width="400">
+
+#### Natural
+<img src="eqn/natural.png" width="400">
+
+#### Flat-Top
+<img src="eqn/flat_top.png" width="400">
 
 
 ### Notes
 
+##### Nyquiest Criterion
+* The value of sampling frequency fs must be greater than twice  the highest signal frequency fmax of the signal
+**fs >= 2fman**
+
+##### Natural Sampling
 * Natural Sampling is not compatible with a digital system since the amplitude of each sample has infinite number of possible values.
+
+
+<script type="text/javascript" async
+
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
