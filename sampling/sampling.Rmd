@@ -1,0 +1,18 @@
+---
+title: "Sampling"
+author: "Hagar Usama"
+date: "6/16/2020"
+output: html_document
+---
+
+
+## Sampling {.tabset}
+
+### Intro
+
+<img src=Sampling.jpg>
+
+
+### Notes
+
+* Natural Sampling is not compatible with a digital system since the amplitude of each sample has infinite number of possible values.
