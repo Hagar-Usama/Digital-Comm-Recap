@@ -4,15 +4,27 @@ author: "Hagar Usama"
 date: "6/17/2020"
 output: html_document
 ---
-## Quantization {.tabset}
+### Quantization & PCM encoding {.tabset}
 
-### Intro
+#### Intro
+<img src="images/Quantization.png">
 
 
-### Rules
+#### Rules
 
 <img src="eqn/quan_eqn.png">
 
+#### PCM
+
+<img src="images/PCM.png">
+
+<img src="images/PCM_1.png">
+<img src="images/PCM_2.png">
 
 
-### Notes
+#### Notes
+
+* The higher L( or n) , the lower error 👏
+* The higher n, the higher bandwidth 😕
+
+<img src="images/Quantization_Trade-Off.png">
