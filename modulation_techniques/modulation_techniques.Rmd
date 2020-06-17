@@ -10,11 +10,25 @@ output: html_document
 
 ### Intro
 
-<img src="Modulation Techniques.jpg">
+<img src="images/Modulation Techniques.jpg">
 
 ### Rules
 
+<img src="eqn/PAM.png" width="250">
+
+<img src="eqn/PPM.png" width="250">
 
 
 ### Notes
+
+<img src="images/Analogue-Pulse Modulation.jpg" >
+
+#### PAM
+* pulses have the same *position* and *width*, amplitude varies with data signal
+
+#### PWM / PDM
+* Amplitude is constant, width varies with the data signal
+
+#### PPM
+* The position of a pulse is relative to its  unmodulated time 
 

@@ -1,0 +1,18 @@
+---
+title: "Digital Communications"
+author: "Hagar Usama"
+date: "6/17/2020"
+output: html_document
+---
+## Quantization {.tabset}
+
+### Intro
+
+
+### Rules
+
+<img src="eqn/quan_eqn.png">
+
+
+
+### Notes
