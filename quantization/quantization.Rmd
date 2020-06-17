@@ -28,3 +28,12 @@ output: html_document
 * The higher n, the higher bandwidth 😕
 
 <img src="images/Quantization_Trade-Off.png">
+
+| Type           | Unipolar       | Polar          | Bipolar        |
+| :------------- | :------------- | :------------- | :------------- |
+| NRZ            | BW = R<sub>b</sub>| BW = R<sub>b</sub>| BW = R<sub>b</sub>|
+| RZ             | BW = 2R<sub>b</sub>| BW = 2R<sub>b</sub>| 2BW = R<sub>b</sub>|
+
+  
+
+
