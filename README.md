@@ -45,5 +45,11 @@ Exam  : 23/6
 
 ---
 # How to run
-1. clone/download the repository
-2. open the index file (index.html)
+1. [Online][1] , Thanks to [Abogical][1]
+
+1. offline:
+  * clone/download the repository
+  * open the index file (index.html)
+
+[1]:https://hagar-usama.github.io/Digital-Comm-Recap/index.html
+[2]: https://github.com/Abogical
