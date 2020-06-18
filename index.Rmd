@@ -1,0 +1,21 @@
+---
+title: "Digital Communications"
+author: "Hagar Usama"
+date: "6/18/2020"
+output: html_document
+---
+
+### Index {.tabset}
+
+#### Intro
+<img src="images/Intro.png">
+
+
+#### Contents
+
+* <a href="sampling/sampling.html">Sampling</a>
+* <a href="quantization/quantization.html">Quantization</a>
+* <a href="modulation_techniques/modulation_techniques.html">Modulation  Techniques (baseband) </a>
+* Broadband Modulation (PSK - ASK - FSK)
+* Detection
+

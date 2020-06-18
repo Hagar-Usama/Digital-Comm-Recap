@@ -37,6 +37,6 @@ output: html_document
 * Natural Sampling is not compatible with a digital system since the amplitude of each sample has infinite number of possible values.
 
 
-<script type="text/javascript" async
 
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+### Go Back
+<a href="../index.html">Index</a>

@@ -35,5 +35,8 @@ output: html_document
 | RZ             | BW = 2R<sub>b</sub>| BW = 2R<sub>b</sub>| 2BW = R<sub>b</sub>|
 
   
+### Go Back
+
+<a href="../index.html">Index</a>
 
 

@@ -10,7 +10,7 @@ output: html_document
 
 ### Intro
 
-<img src="images/Modulation Techniques.jpg">
+<img src="images/Modulation Techniques.png">
 
 ### Rules
 
@@ -31,4 +31,10 @@ output: html_document
 
 #### PPM
 * The position of a pulse is relative to its  unmodulated time 
+
+
+### Go Back
+
+<a href="../index.html">Index</a>
+
 
