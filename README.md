@@ -14,7 +14,7 @@ Exam  : 23/6
 
 > #### What cannot be completely attained, should not be completely left
 
-# Contents (neglect)
+# Contents (Ignore)
 * [ ] Sampling
 * [ ] Analog Pulse Modulation
   * [ ] PAM, PWM, PPM
@@ -45,5 +45,5 @@ Exam  : 23/6
 
 ---
 # How to run
-1. clone the repository
+1. clone/download the repository
 2. open the index file (index.html)
