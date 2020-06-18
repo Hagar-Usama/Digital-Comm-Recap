@@ -7,10 +7,6 @@ output: html_document
 
 ### Index {.tabset}
 
-#### Intro
-<img src="images/Intro.png">
-
-
 #### Contents
 
 * <a href="sampling/sampling.html">Sampling</a>
@@ -18,4 +14,7 @@ output: html_document
 * <a href="modulation_techniques/modulation_techniques.html">Modulation  Techniques (baseband) </a>
 * Broadband Modulation (PSK - ASK - FSK)
 * Detection
+
+#### Intro
+<img src="images/Intro.png">
 
